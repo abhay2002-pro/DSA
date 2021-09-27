@@ -25,3 +25,8 @@ int main(){
     cin>>n;
     seive(n);
 }
+
+
+// Time complexity of this algorithm is O(n*log(logn)).
+
+// We are looking at N/2 + N/3 + N/5 + N/7 + .........N/P   p<=sqrt(n).   
