@@ -16,7 +16,7 @@ bool isPrime(int n){
 int main(){
     int n;
     cin >> n;
-    if(isPrime){
+    if(isPrime(n)){
         cout << "Prime" << endl;
     }
     else{
