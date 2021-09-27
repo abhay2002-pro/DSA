@@ -40,3 +40,5 @@ int main(){
     cin>>n>>p;
     cout<<squareRoot(n,p);
 }
+
+// Time complexity - O(log(n))
