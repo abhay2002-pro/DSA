@@ -28,9 +28,9 @@ int dpfibonacci(int n)
 }
 
 int main(){
-    cout<<rfibonaaci(5)<<endl;;
+    cout<<rfibonaaci(6)<<endl;;
     memset(memo,-1,1000000);
-    cout<<dpfibonacci(5);
+    cout<<dpfibonacci(6);
 }
 
 // Time complexity of simple naive recursive approach is O(2^n)
