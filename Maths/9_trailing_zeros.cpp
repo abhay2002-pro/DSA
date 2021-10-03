@@ -14,3 +14,5 @@ int main(){
     cin>>n;
     cout<<trialingZeros(n)<<endl;
 }
+
+// Time complexity :- 5^k <= n => O(log5(k))
