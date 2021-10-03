@@ -1,3 +1,6 @@
+// Every prime number can be represented in form of 6n+1 or 6n-1 except 2 and 3, where n is a natural number.
+// Two and thee are only two consecutive natural numbers which are prime too.
+
 #include<iostream>
 #include<math.h>
 
