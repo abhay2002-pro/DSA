@@ -3,6 +3,8 @@
         "iostream": "cpp",
         "memory": "cpp",
         "regex": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "__node_handle": "cpp",
+        "ios": "cpp"
     }
 }
