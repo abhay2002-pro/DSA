@@ -5,6 +5,8 @@
         "regex": "cpp",
         "utility": "cpp",
         "__node_handle": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "new": "cpp",
+        "queue": "cpp"
     }
 }
