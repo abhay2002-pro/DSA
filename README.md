@@ -1,2 +1,2 @@
 # DSA
-This repository contains all the important codes of DSA. Feel free to contribute.
+This repository contains important codes of DSA. Feel free to contribute.
